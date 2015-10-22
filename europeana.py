@@ -14,10 +14,7 @@ import re
 
 Europeana_API = 'www.europeana.eu'
 
-API_key = 'KtbDppuVD'
-synonymKey = 'KFXMUy5UrPoxwpmfEBuA'
-translateName = 'lyndon.nixon@modul.ac.at'
-translatePwd = "fcbarcelona"
+#TO RUN YOU NEED THE KEYS FOR EUROPEANA API, SYNONYMS AND TRANSLATION SERVICE. 
 
 language = 'en'
 language2 = 'nl'
